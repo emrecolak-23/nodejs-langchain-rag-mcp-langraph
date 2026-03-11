@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "math-server": {
+      "command": "pnpm",
+      "args": ["run", "mcp"]
+    }
+  }
+}

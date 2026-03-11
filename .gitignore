@@ -10,3 +10,5 @@
 node_modules/
 .pnpm-store/
 *.docx
+# LangGraph API
+.langgraph_api
